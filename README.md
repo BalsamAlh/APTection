@@ -52,14 +52,15 @@ Next stage of the attack
 
 # Installiton
 ```
-{
  $ git clone
  $ cd APTection
  $ pip install -r requirements.txt
  $ python3 APTection.py
-}
 ```
-
+To see the result on dashboard use this command
+```
+& shiny run --reload dashboard.py
+```
 # How to Use APTection
 # The result will be available in two sheets :
 # Demo
