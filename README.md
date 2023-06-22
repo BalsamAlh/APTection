@@ -38,5 +38,5 @@ To see the result on dashboard use this command
 $ shiny run --reload dashboard.py
 ```
 # Demo
-https://github.com/BalsamAlh/APTection/assets/121826710/3ea3d276-4e91-47e1-a26f-3eb1e39ff684
+https://github.com/BalsamAlh/APTection/assets/121826710/29383a71-e8f5-46af-ac28-8f4d64184c8b
 
