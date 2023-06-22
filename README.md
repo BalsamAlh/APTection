@@ -1,4 +1,4 @@
-![APTecti n](https://github.com/BalsamAlh/APTection/assets/121826710/37297e4c-9159-4cae-aed1-b7bf63ff45b1)
+![APTecti n](https://github.com/BalsamAlh/APTection/assets/121826710/6c193df6-54f4-4d54-969b-ba3e32eeac12)
 # APTection
 APTection is a threat hunting tool with high accuracy that detects Advanced Persistent Threats (APTs) in their early stages. Takes advantage of MITRE ATT&CK, Use logs as a reliable source to spot APT activities. Analyze Windows Event Logs through sigma rules and Use cases. From this analysis, the system will produce a matching ID between the techniques discovered in the log file and those from MITRE ATT&CK database. Attribution will then pinpoint to APT groups most likely responsible for attacking the organization, displayed in an easy-to-understand dashboard.
 
