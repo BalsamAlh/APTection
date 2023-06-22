@@ -11,7 +11,7 @@ Joud Hawari.
 # APTection Features
 - Useful tool for teams conducting forensic investigations, incidents response, and threat hunting. It can help you discover any suspicious activity you are unaware of before it develops into a significant incident.
 -	Support windows event logs exported as EVTX and CSV.
--	Collect and analyze (Sysmon, Security, System, Sigma Rules, Powershell, Powershell Operational, ScheduledTask, WinRM, TerminalServices, Windows_Defender).
+-	Collect and analyze (Sysmon, Security, System, Powershell, Powershell Operational, ScheduledTask, WinRM, TerminalServices, Windows_Defender).
 -	Over 80 use cases are included.
 -	Dynamically adding Sigma rules to detection rule sets.
 -	created more than 1,500 custom Sigma rules  for detection.
@@ -28,7 +28,7 @@ Joud Hawari.
 
 # Installiton
 ```
- $ git clone
+ $ git clone https://github.com/BalsamAlh/APTection.git
  $ cd APTection
  $ pip install -r requirements.txt
  $ python3 APTection.py
