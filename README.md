@@ -41,7 +41,16 @@ uploaded to Timesketch for more in-depth timeline analysis.
 This allows us to provide greater insight into potential 
 attacks on your systems.
 
-# installiton:
+-----------------
+Features of the tool
+More than 50 detection rules included
+You can easily add any detection rule
+The result display in easy to understand dashboard
+Next stage of the attack
+
+
+# Installiton
+
 # How to Use APTection
 # Demo:
 # The result will be available in two sheets :
