@@ -1,3 +1,4 @@
+
 # APTection
 APTection is a system that detects Advanced Persistent Threats (APTs) in their early stages. Takes advantage of MITRE ATT&CK, Use logs as a reliable source to spot APT activities. Analyze Windows Event Logs through sigma rules and event conditions. From this analysis, the system will produce a matching ID between the techniques discovered in the log file and those from the database. Attribution will then pinpoint to APT groups most likely responsible for attacking the organization, displayed in an easy-to-understand dashboard. 
 
@@ -11,10 +12,10 @@ suspicious activity you are unaware of before it develops
 into a significant incident. And display the result in an easyto-understand dashboard.
 --------
 Authers:
-Balsam Alharthi https://www.linkedin.com/in/balsam-alharthi
-Bushra Alghamdi
-Malak Masad
-Joud Hawari
+[Balsam Alharthi] (https://www.linkedin.com/in/balsam-alharthi),
+Bushra Alghamdi,
+Malak Masad,
+Joud Hawari,
 # Features of the tool:
 At log analysis, we leverage two powerful tools to aid us in 
 building our tool: Apt Hunter [8] and Threat Hound [11]. 
@@ -50,8 +51,17 @@ Next stage of the attack
 
 
 # Installiton
+```
+{
+ $ git clone
+ $ cd APTection
+ $ pip install -r requirements.txt
+ $ python3 APTection.py
+}
+```
 
 # How to Use APTection
+# The result will be available in two sheets :
 # Demo
 https://github.com/BalsamAlh/APTection/assets/121826710/3ea3d276-4e91-47e1-a26f-3eb1e39ff684
-# The result will be available in two sheets :
+
