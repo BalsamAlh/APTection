@@ -5,8 +5,8 @@ APTection is a threat hunting tool with high accuracy that detects Advanced Pers
 ---------------------
 Authers:
 [Balsam Alharthi](https://www.linkedin.com/in/balsam-alharthi),
-Bushra Alghamdi,
-Malak Masad,
+[Bushra Alghamdi](https://www.linkedin.com/in/bushralghamdi),
+[Malak Masad](https://www.linkedin.com/in/malak-masaad-37b107246),
 Joud Hawari.
 # APTection Features
 - Useful tool for teams conducting forensic investigations, incidents response, and threat hunting. It can help you discover any suspicious activity you are unaware of before it develops into a significant incident.
